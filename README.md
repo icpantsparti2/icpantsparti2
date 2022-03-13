@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @icpantsparti2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @icpantsparti2 🐌
+- 👀 I’m interested in ... ¯\\\_(ツ)_/¯
+- 🌱 I’m currently learning ... ¯\\\_(ツ)_/¯
+- 💞️ I’m looking to collaborate on ... ¯\\\_(ツ)_/¯
+- 📫 How to reach me ... ¯\\\_(ツ)_/¯
+
+icpantsparti2
+<=>
+[i](https://www.merriam-webster.com/dictionary/i)
+[c](https://www.merriam-webster.com/dictionary/c)
+[pants](https://www.merriam-webster.com/dictionary/pants)
+[parti](https://www.merriam-webster.com/dictionary/parti)
+<=>
+[participants](https://www.merriam-webster.com/dictionary/participants)
 
 <a href="https://www.flaticon.com/free-icons/snail" title="snail icons">Snail icons created by Smashicons - Flaticon</a>
 
