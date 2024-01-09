@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on ... ¯\\\_(ツ)_/¯
 - 📫 How to reach me ... ¯\\\_(ツ)_/¯
 
+1. [gist.github.com - icpantsparti2 - various](https://gist.github.com/icpantsparti2)
+1. [github.com - icpantsparti2 - browser-bits](https://github.com/icpantsparti2/browser-bits)
+1. [github.com - arkenfox - gui](https://github.com/arkenfox/gui)
+    1. [github.com - arkenfox - user.js](https://github.com/arkenfox/user.js)
+1. [github.com - icpantsparti2 - firefox-user.js-tool](https://github.com/icpantsparti2/firefox-user.js-tool)
+
 (2022.03.13 @icpantsparti2 - previous account was @icpantsparti)
 
 icpantsparti2
