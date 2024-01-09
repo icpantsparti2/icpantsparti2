@@ -4,7 +4,7 @@
 | [browser-bits](https://github.com/icpantsparti2/browser-bits) | |
 | [firefox-user.js-tool](https://github.com/icpantsparti2/firefox-user.js-tool) | |
 | [arkenfox/gui](https://github.com/arkenfox/gui) (I help with this) | [arkenfox/user.js](https://github.com/arkenfox/user.js) (I follow this) |
-| [gist](https://gist.github.com/icpantsparti2)<br>(currently empty) | |
+| [my gists](https://gist.github.com/icpantsparti2)(currently empty) | |
 
 #### icpantsparti2
 
