@@ -3,8 +3,8 @@
 |---|---|
 | [browser-bits](https://github.com/icpantsparti2/browser-bits) | |
 | [firefox-user.js-tool](https://github.com/icpantsparti2/firefox-user.js-tool) | |
-| [arkenfox/gui](https://github.com/arkenfox/gui) | [arkenfox/user.js](https://github.com/arkenfox/user.js) |
-| [gist](https://gist.github.com/icpantsparti2) | |
+| [arkenfox/gui](https://github.com/arkenfox/gui)<br>(I help with this) | [arkenfox/user.js](https://github.com/arkenfox/user.js)<br>(I follow this) |
+| [gist](https://gist.github.com/icpantsparti2)<br>(currently empty) | |
 
 #### icpantsparti2
 
