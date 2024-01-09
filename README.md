@@ -1,10 +1,10 @@
 
 | | |
 |---|---|
-| [browser-bits](https://github.com/icpantsparti2/browser-bits) | github.com/icpantsparti2 |
-| [firefox-user.js-tool](https://github.com/icpantsparti2/firefox-user.js-tool) | github.com/icpantsparti2 |
-| [arkenfox - gui](https://github.com/arkenfox/gui) | github.com/arkenfox<br>[arkenfox - user.js](https://github.com/arkenfox/user.js) |
-| [gist](https://gist.github.com/icpantsparti2) | github.com/icpantsparti2 |
+| [browser-bits](https://github.com/icpantsparti2/browser-bits) | |
+| [firefox-user.js-tool](https://github.com/icpantsparti2/firefox-user.js-tool) | |
+| [arkenfox/gui](https://github.com/arkenfox/gui) | [arkenfox/user.js](https://github.com/arkenfox/user.js) |
+| [gist](https://gist.github.com/icpantsparti2) | |
 
 #### icpantsparti2
 
